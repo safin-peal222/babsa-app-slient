@@ -1,0 +1,22 @@
+.image {
+    width: auto;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+.photo {
+    border-radius: 50%;
+    padding: 20px;
+    margin: 30px;
+    width: 50%;
+    height: 50%;
+}
+
+.name {
+    color: blueviolet;
+}
+
+.left-side {
+    background-color: rgb(240, 237, 233);
+    padding: 30px;
+}
